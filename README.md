@@ -1,4 +1,4 @@
-# tavsiyeuygulama
+# Advice App
 ![Screenshot_20231206_004352](https://github.com/enesate/advice_of_the_day_app/assets/77548163/71931642-dfc2-4c38-bd56-e48e2536c3c8)
 
 
